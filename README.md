@@ -1,10 +1,10 @@
-## Olá sou o Daniel Reck, Estudo programação e pentest
+## Oii sou o Daniel Reck, Estudo programação no IFC
 <head>
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
 
 <body>
-Trabalhando em um TCC voltado para a área da culinaria, Sistema de gerenciamento de pedidos para um restaurante. (2024-2026) 🛒
+Trabalhando em um TCC voltado para a área da culinaria, Sistema de gerenciamento de pedidos para um restaurante. 🛒
 
 <div>
   <div style= "display: inline_block"> <br>
